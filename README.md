@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vitaly Lobachev
 
-**Cloud Platform / DevOps Engineer** | **PhD** | **AWS / Kubernetes / Terraform / ArgoCD | AI Explorer**
+**Cloud Platform / DevOps Engineer / AI Explorer** | **PhD** | **AWS / Kubernetes / Terraform / ArgoCD**
 
 💬 Bringing order to chaos through code.  
 🚀 I build infrastructures that scale, recover, and evolve.  
