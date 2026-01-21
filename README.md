@@ -1,26 +1,6 @@
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║  ██╗   ██╗██╗████████╗ █████╗ ██╗  ██╗   ██╗                               ║
-║  ██║   ██║██║╚══██╔══╝██╔══██╗██║  ╚██╗ ██╔╝                               ║
-║  ██║   ██║██║   ██║   ███████║██║   ╚████╔╝                                ║
-║  ╚██╗ ██╔╝██║   ██║   ██╔══██║██║    ╚██╔╝                                 ║
-║   ╚████╔╝ ██║   ██║   ██║  ██║███████╗██║                                  ║
-║    ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝                                  ║
-║                                                                              ║
-║  ██╗      ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗███████╗██╗   ██╗       ║
-║  ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██║   ██║       ║
-║  ██║     ██║   ██║██████╔╝███████║██║     ███████║█████╗  ██║   ██║       ║
-║  ██║     ██║   ██║██╔══██╗██╔══██║██║     ██╔══██║██╔══╝  ╚██╗ ██╔╝       ║
-║  ███████╗╚██████╔╝██████╔╝██║  ██║╚██████╗██║  ██║███████╗ ╚████╔╝        ║
-║  ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝  ╚═══╝         ║
-║                                                                              ║
-║                  Cloud Architect • DevOps Maestro • AI Pioneer              ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Vitaly%20Lobachev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20•%20DevOps%20Maestro%20•%20AI%20Pioneer&descAlignY=55&descSize=20)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F719&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Infrastructures+That+Scale%2C+Recover%2C+and+Evolve;Transforming+Chaos+Into+Code;15%2B+Years+of+Making+Systems+Dance" alt="Typing SVG" />
 
@@ -55,19 +35,10 @@ status: "Available for interesting challenges 🟢"
 
 <div align="center">
 
-```ascii
-     _______________________________________________________________
-    /                                                               \
-   |  "If you can script it, you should. If you can't script it,   |
-   |   you should find a way. And if you still can't, automate     |
-   |   the search for a solution." - Vitaly's Law of Automation    |
-    \_______________________________________________________________/
-            \   ^__^
-             \  (oo)\_______
-                (__)\       )\/\
-                    ||----w |
-                    ||     ||
-```
+> **💡 Vitaly's Law of Automation**
+>
+> *"If you can script it, you should. If you can't script it, you should find a way.*
+> *And if you still can't, automate the search for a solution."*
 
 </div>
 
@@ -213,22 +184,7 @@ class VitalySkills:
 
 ---
 
-## 🏗️ `$ ls -la ~/projects/featured`
-
-<div align="center">
-
-```ascii
-total 42
-drwxr-xr-x  7 vitaly engineers  4096 Jan 20 2026 .
-drwxr-xr-x 23 vitaly engineers  4096 Jan 15 2026 ..
--rwxr-xr-x  1 vitaly engineers  8192 Jan 18 2026 llm_infrastructure.sh
--rwxr-xr-x  1 vitaly engineers  6144 Jan 12 2026 k8s_istio_migration.sh
--rwxr-xr-x  1 vitaly engineers  5120 Dec 28 2025 argo_rollouts_ab.sh
--rwxr-xr-x  1 vitaly engineers  7168 Dec 15 2025 observability_stack.sh
--rwxr-xr-x  1 vitaly engineers  4096 Nov 30 2025 security_automation.sh
-```
-
-</div>
+## 🏗️ Featured Projects
 
 ### 🌟 **Flagship Projects**
 
@@ -382,24 +338,15 @@ alias connect="open https://www.linkedin.com/in/vitalylobachev"
 
 ---
 
-## 💡 `$ fortune | cowsay`
+## 💡 Philosophy & Wisdom
 
 <div align="center">
 
-```ascii
- _________________________________________
-/ "The best way to predict the future is \
-| to automate it. The second best way is |
-| to version control it. The third best  |
-\ way is to monitor it relentlessly."    /
- -----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+> **"The best way to predict the future is to automate it.**
+> **The second best way is to version control it.**
+> **The third best way is to monitor it relentlessly."**
 
-```
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Infrastructure+is+invisible+when+it+works,+and+impossible+when+it+doesn't.&author=Vitaly+Lobachev" alt="Quote" />
 
@@ -407,70 +354,43 @@ alias connect="open https://www.linkedin.com/in/vitalylobachev"
 
 ---
 
-## 🤝 `$ ping -c 4 collaboration`
+## 🤝 Let's Collaborate
 
 <div align="center">
 
-```ascii
-┌────────────────────────────────────────────────────────────────┐
-│                                                                │
-│  🚀 INTERESTED IN COLLABORATION?                              │
-│                                                                │
-│  I'm always excited to discuss:                               │
-│                                                                │
-│  ✓ Complex infrastructure challenges                          │
-│  ✓ Cloud-native architecture design                           │
-│  ✓ GitOps and progressive delivery strategies                 │
-│  ✓ AI/LLM infrastructure and operations                       │
-│  ✓ Open-source DevOps tooling                                 │
-│  ✓ Knowledge sharing and mentorship                           │
-│                                                                │
-│  📧 Reach out via LinkedIn for professional inquiries         │
-│  ⭐ Star my repositories if you find them useful              │
-│  🔄 Fork, contribute, and let's build something amazing       │
-│                                                                │
-└────────────────────────────────────────────────────────────────┘
-```
+### 🚀 **Interested in Collaboration?**
+
+I'm always excited to discuss:
+
+✓ **Complex infrastructure challenges**
+✓ **Cloud-native architecture design**
+✓ **GitOps and progressive delivery strategies**
+✓ **AI/LLM infrastructure and operations**
+✓ **Open-source DevOps tooling**
+✓ **Knowledge sharing and mentorship**
+
+---
+
+📧 **Reach out via LinkedIn for professional inquiries**
+⭐ **Star my repositories if you find them useful**
+🔄 **Fork, contribute, and let's build something amazing**
 
 </div>
-
-```bash
-PING collaboration.vitaly-lobachev.dev (185.199.108.153): 56 data bytes
-64 bytes from 185.199.108.153: icmp_seq=0 ttl=64 time=0.123 ms ✅
-64 bytes from 185.199.108.153: icmp_seq=1 ttl=64 time=0.115 ms ✅
-64 bytes from 185.199.108.153: icmp_seq=2 ttl=64 time=0.109 ms ✅
-64 bytes from 185.199.108.153: icmp_seq=3 ttl=64 time=0.118 ms ✅
-
---- collaboration.vitaly-lobachev.dev ping statistics ---
-4 packets transmitted, 4 packets received, 0.0% packet loss
-round-trip min/avg/max/stddev = 0.109/0.116/0.123/0.005 ms
-
-STATUS: REACHABLE ✅ | RESPONSE TIME: EXCELLENT ⚡
-```
 
 ---
 
 <div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║  "Give me a well-architected system and a good CI/CD pipeline,       ║
-║   and I shall move mountains... automatically, with monitoring."     ║
-║                                                                       ║
-║                              - Vitaly Lobachev                        ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+> **"Give me a well-architected system and a good CI/CD pipeline,**
+> **and I shall move mountains... automatically, with monitoring."**
+>
+> *— Vitaly Lobachev*
+
+<br/>
 
 ### ⚡ **Infrastructure is Poetry in Production** ⚡
 
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=twinkling)
-
-```bash
-vitaly@lobachev:~$ exit
-Connection to vitaly-lobachev.dev closed.
-```
 
 </div>
 
