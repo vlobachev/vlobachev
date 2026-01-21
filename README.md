@@ -3,12 +3,19 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ██╗   ██╗██╗████████╗ █████╗ ██╗  ██╗   ██╗    ██╗      ██████╗ ██████╗  ║
-║   ██║   ██║██║╚══██╔══╝██╔══██╗██║  ╚██╗ ██╔╝    ██║     ██╔═══██╗██╔══██╗ ║
-║   ██║   ██║██║   ██║   ███████║██║   ╚████╔╝     ██║     ██║   ██║██████╔╝ ║
-║   ╚██╗ ██╔╝██║   ██║   ██╔══██║██║    ╚██╔╝      ██║     ██║   ██║██╔══██╗ ║
-║    ╚████╔╝ ██║   ██║   ██║  ██║███████╗██║       ███████╗╚██████╔╝██████╔╝ ║
-║     ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝       ╚══════╝ ╚═════╝ ╚═════╝  ║
+║  ██╗   ██╗██╗████████╗ █████╗ ██╗  ██╗   ██╗                               ║
+║  ██║   ██║██║╚══██╔══╝██╔══██╗██║  ╚██╗ ██╔╝                               ║
+║  ██║   ██║██║   ██║   ███████║██║   ╚████╔╝                                ║
+║  ╚██╗ ██╔╝██║   ██║   ██╔══██║██║    ╚██╔╝                                 ║
+║   ╚████╔╝ ██║   ██║   ██║  ██║███████╗██║                                  ║
+║    ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝                                  ║
+║                                                                              ║
+║  ██╗      ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗███████╗██╗   ██╗       ║
+║  ██║     ██╔═══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██║   ██║       ║
+║  ██║     ██║   ██║██████╔╝███████║██║     ███████║█████╗  ██║   ██║       ║
+║  ██║     ██║   ██║██╔══██╗██╔══██║██║     ██╔══██║██╔══╝  ╚██╗ ██╔╝       ║
+║  ███████╗╚██████╔╝██████╔╝██║  ██║╚██████╗██║  ██║███████╗ ╚████╔╝        ║
+║  ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝  ╚═══╝         ║
 ║                                                                              ║
 ║                  Cloud Architect • DevOps Maestro • AI Pioneer              ║
 ║                                                                              ║
@@ -308,7 +315,7 @@ const project = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vlobachev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F719&icon_color=00F719&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vlobachev&theme=radical&hide_border=true&background=0D1117&stroke=00F719&ring=00F719&fire=FF6D00&currStreakLabel=00F719" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=vlobachev&theme=radical&hide_border=true&background=0D1117&stroke=00F719&ring=00F719&fire=FF6D00&currStreakLabel=00F719&sideLabels=00F719&dates=FFFFFF" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlobachev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F719&text_color=FFFFFF" alt="Top Languages" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vlobachev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F719&line=00F719&point=FFFFFF" alt="Activity Graph" />
