@@ -23,7 +23,7 @@ vitaly@lobachev:~$ cat profile.yaml
 name: "Vitaly Lobachev"
 location: "Amsterdam, Netherlands 🇳🇱"
 role: "Platform Engineer | DevOps Architect | AI Infrastructure Specialist"
-education: "PhD in Engineering"
+education: "PhD in Education and Philosophy"
 experience: "15+ years in IT Infrastructure & Cloud Engineering"
 philosophy: |
   "Treat infrastructure like a product.
