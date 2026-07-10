@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 24" width="880" height="24" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#30363d" stop-opacity="0"/>
+      <stop offset="12%" stop-color="#30363d" stop-opacity="1"/>
+      <stop offset="88%" stop-color="#30363d" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .beat { stroke-dasharray: 900; stroke-dashoffset: 900; animation: beat 3s linear infinite; }
+      @keyframes beat { to { stroke-dashoffset: 0; } }
+      @media (prefers-reduced-motion: reduce) { .beat { animation: none; stroke-dashoffset: 0; } }
+    </style>
+  </defs>
+  <line x1="0" y1="12" x2="880" y2="12" stroke="url(#fade)" stroke-width="1"/>
+  <path class="beat" d="M380,12 L410,12 L420,4 L432,20 L444,12 L474,12 L484,8 L496,12 L500,12"
+        fill="none" stroke="#3fb950" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="500" cy="12" r="2.4" fill="#3fb950"/>
+</svg>
