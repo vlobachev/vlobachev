@@ -55,8 +55,8 @@
   <text x="440" y="28" text-anchor="middle" class="mono title">vitaly@amsterdam: ~/platform-engineering</text>
 
   <!-- prompt + identity -->
-  <text x="32" y="82" class="mono prompt"><tspan class="accent">$</tspan> whoami --full</text>
-  <rect class="cursor" x="163" y="70" width="8" height="15" fill="#3fb950" opacity="0.85"/>
+  <text x="32" y="82" class="mono prompt"><tspan class="accent">$</tspan> kubectl describe engineer vitaly</text>
+  <rect class="cursor" x="322" y="70" width="8" height="15" fill="#3fb950" opacity="0.85"/>
   <text x="30" y="128" class="mono name">Vitaly Lobachev</text>
   <text x="32" y="156" class="mono role"><tspan class="accent">›</tspan> Platform Engineer · AI Infrastructure &#160;&#160;·&#160;&#160; Amsterdam, NL &#160;&#160;·&#160;&#160; 15+ yrs</text>
 
