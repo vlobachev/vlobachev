@@ -3,22 +3,22 @@
   .k{font-size:12.5px;fill:#8b949e;}.v{font-size:12.5px;fill:#e6edf3;font-weight:600;}</style>
   <rect x="0.5" y="0.5" width="439" height="164" rx="8" fill="#0d1117" stroke="#30363d"/>
   <text x="20" y="28" class="mono t">▸ most used languages</text>
-  <rect x="20" y="44" width="103" height="9" rx="2" fill="#f1e05a"/>
-  <rect x="125" y="44" width="87" height="9" rx="2" fill="#89e051"/>
-  <rect x="214" y="44" width="84" height="9" rx="2" fill="#8b949e"/>
-  <rect x="300" y="44" width="56" height="9" rx="2" fill="#8b949e"/>
-  <rect x="358" y="44" width="23" height="9" rx="2" fill="#e34c26"/>
-  <rect x="383" y="44" width="16" height="9" rx="2" fill="#427819"/>
+  <rect x="20" y="44" width="101" height="9" rx="2" fill="#f1e05a"/>
+  <rect x="123" y="44" width="85" height="9" rx="2" fill="#89e051"/>
+  <rect x="210" y="44" width="82" height="9" rx="2" fill="#8b949e"/>
+  <rect x="294" y="44" width="55" height="9" rx="2" fill="#8b949e"/>
+  <rect x="351" y="44" width="23" height="9" rx="2" fill="#e34c26"/>
+  <rect x="376" y="44" width="17" height="9" rx="2" fill="#3572A5"/>
   <circle cx="25" cy="74" r="5" fill="#f1e05a"/>
-  <text x="38" y="78" class="mono k">JavaScript <tspan class="v">27.1%</tspan></text>
+  <text x="38" y="78" class="mono k">JavaScript <tspan class="v">26.4%</tspan></text>
   <circle cx="235" cy="74" r="5" fill="#89e051"/>
-  <text x="248" y="78" class="mono k">Shell <tspan class="v">22.9%</tspan></text>
+  <text x="248" y="78" class="mono k">Shell <tspan class="v">22.3%</tspan></text>
   <circle cx="25" cy="100" r="5" fill="#8b949e"/>
-  <text x="38" y="104" class="mono k">Swift <tspan class="v">22.2%</tspan></text>
+  <text x="38" y="104" class="mono k">Swift <tspan class="v">21.7%</tspan></text>
   <circle cx="235" cy="100" r="5" fill="#8b949e"/>
-  <text x="248" y="104" class="mono k">Handlebars <tspan class="v">14.9%</tspan></text>
+  <text x="248" y="104" class="mono k">Handlebars <tspan class="v">14.5%</tspan></text>
   <circle cx="25" cy="126" r="5" fill="#e34c26"/>
-  <text x="38" y="130" class="mono k">HTML <tspan class="v">6.1%</tspan></text>
-  <circle cx="235" cy="126" r="5" fill="#427819"/>
-  <text x="248" y="130" class="mono k">Makefile <tspan class="v">4.1%</tspan></text>
+  <text x="38" y="130" class="mono k">HTML <tspan class="v">5.9%</tspan></text>
+  <circle cx="235" cy="126" r="5" fill="#3572A5"/>
+  <text x="248" y="130" class="mono k">Python <tspan class="v">4.5%</tspan></text>
 </svg>
