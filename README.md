@@ -65,8 +65,8 @@ ai agents (now)→  Claude Code · MCP servers · LiteLLM · multi-agent workflo
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vlobachev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=8b949e" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlobachev&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e" />
+<img height="165" alt="GitHub stats" src="assets/stats.svg" />
+<img height="165" alt="Top languages" src="assets/langs.svg" />
 
 </div>
 

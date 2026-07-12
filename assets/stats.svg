@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335 165" width="335" height="165" role="img" aria-label="vlobachev — github stats">
+  <style>.mono{font-family:ui-monospace, "SF Mono", Menlo, Consolas, monospace;}.t{font-size:13px;fill:#3fb950;font-weight:600;letter-spacing:.4px;}
+  .k{font-size:12.5px;fill:#8b949e;}.v{font-size:12.5px;fill:#e6edf3;font-weight:600;}</style>
+  <rect x="0.5" y="0.5" width="334" height="164" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="28" class="mono t">▸ vlobachev — github stats</text>
+  <text x="20" y="58" class="mono k">Public repos</text>
+  <text x="315" y="58" text-anchor="end" class="mono v">22</text>
+  <text x="20" y="84" class="mono k">Followers</text>
+  <text x="315" y="84" text-anchor="end" class="mono v">12</text>
+  <text x="20" y="110" class="mono k">Stars earned</text>
+  <text x="315" y="110" text-anchor="end" class="mono v">5</text>
+  <text x="20" y="136" class="mono k">Forks of my work</text>
+  <text x="315" y="136" text-anchor="end" class="mono v">1</text>
+</svg>
